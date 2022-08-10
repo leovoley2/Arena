@@ -1,10 +1,10 @@
 import React from 'react'
 import './Entrenadores.css'
-import image1 from '../../assets/galeria1.jpg'
-import image2 from '../../assets/galeria2.jpg'
+import image1 from '../../assets/galeria1.png'
+import image2 from '../../assets/galeria2.png'
 import image3 from '../../assets/3.jpg'
 import image4 from '../../assets/4.jpg'
-import image5 from '../../assets/5.jpg'
+import image5 from '../../assets/5.png'
 import image6 from '../../assets/6.jpg'
 import cerrar from '../../assets/x.svg'
 
