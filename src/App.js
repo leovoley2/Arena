@@ -5,7 +5,7 @@ import Join from './components/Join/Join';
 import Nosotros from './components/Nosotros/Nosotros';
 import Planes from './components/Planes/Planes';
 import Programa from './components/Programa/Programa'
-import Slider from './components/Slider/Slider';
+//import Slider from './components/Slider/Slider';
 import Testimonio from './components/testimonio/Testimonio';
 import Whatsap from './assets/whatsapp.png'
 import Mapa from './components/Mapa/Mapa';
