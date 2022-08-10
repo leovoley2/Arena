@@ -1,0 +1,14 @@
+.leaflet-container{
+    width: 100vw;
+    height: 75vh;
+}
+.programa-header{
+    display: flex;
+    gap: 2rem;
+    font-weight: bold;
+    font-size: 3rem;
+    justify-content: center;
+    color: white;
+    text-transform: uppercase;
+    font-style: italic;
+}
