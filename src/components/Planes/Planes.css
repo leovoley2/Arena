@@ -26,6 +26,9 @@
     gap: 3rem;
 
 }
+.plan>.boton>.btn{
+    text-decoration: none;
+}
 .plan{
     display: flex;
     flex-direction: column;

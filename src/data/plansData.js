@@ -15,7 +15,7 @@ export const plansData = [
     features: [
       "2 horas de trabajo ",
       "pago unico por clase asistida",
-      "Consulta gratis con los entrenadores",
+      "asesoría gratuita con entrenadores",
     ],
   },
   {
@@ -34,7 +34,7 @@ export const plansData = [
     features: [
       "2 horas de trabajo",
       "Acceso al grupo de la comunidad",
-      "Pago mensual por las 4 clases de la semana",
+      "Pago mensual",
     ],
   },
   {
@@ -53,7 +53,9 @@ export const plansData = [
     features: [
       "2 horas de trabajo ",
       "Consultas y acesoria privada con entrenadores",
-      "planes fisico y de fuerza individualizados",
+      "plan físico ",
+      "plan de fuerza.",
+      "Pago mensual"
     ],
   },
 ];

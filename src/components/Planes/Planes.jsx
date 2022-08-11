@@ -3,6 +3,7 @@ import './Planes.css'
 import whiteTick from '../../assets/whiteTick.png'
 import {plansData} from '../../data/plansData'
 
+
 const Planes = () => {
   return (
 
@@ -32,9 +33,9 @@ const Planes = () => {
                         )) }
                     </div>
 
-                    <div>
+                    <div className='boton'>
                         {/*<span>Ver más Beficio </span>*/}
-                        <button className='btn'>Únete ahora </button>
+                        <button className='btn'><a href="https://wa.me/51929418895">Únete ahora</a></button>
                     </div>
                 </div>
             ))}

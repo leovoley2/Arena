@@ -12,8 +12,9 @@ const Footer = () => {
       <hr />
       <div className="footer">
         <div className="social">
-          <img src={Facebook} alt="" />
-          <img src={Instagram} alt="" />
+          <a href="https://www.facebook.com/Arena-Voleibol-Club-110488075041298"><img src={Facebook} alt="" /></a>
+          
+          <a href="https://www.instagram.com/arena_voleibolclub/"><img src={Instagram} alt="" /></a>
         </div>  
       
 
