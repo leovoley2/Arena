@@ -26,8 +26,10 @@
     gap: 3rem;
 
 }
-.plan>.boton>.btn{
+.plan>.boton>.btn>a{
     text-decoration: none;
+    color: black;
+    
 }
 .plan{
     display: flex;

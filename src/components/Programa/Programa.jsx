@@ -1,7 +1,7 @@
 import React from 'react'
 import './Programa.css'
 import {programsData} from '../../data/programsData'
-import RightArrow from '../../assets/rightArrow.png'
+//import RightArrow from '../../assets/rightArrow.png'
 
 const programa = () => {
   return (
@@ -19,7 +19,7 @@ const programa = () => {
                 {program.image}
                 <span>{program.heading}</span>
                  <span>{program.details}</span>
-                 <div className="join-now"><span>Ver más</span><img src={RightArrow} alt=''/></div>
+                {/*  <div className="join-now"><span>Ver más</span><img src={RightArrow} alt=''/></div>*/}
                 </div>
             ))}
         </div>

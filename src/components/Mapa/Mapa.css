@@ -12,3 +12,10 @@
     text-transform: uppercase;
     font-style: italic;
 }
+
+@media screen and (max-width: 768px){
+    .leaflet-container{
+        width: 100vw;
+        height: 50vh;
+    }
+}
