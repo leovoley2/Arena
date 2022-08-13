@@ -19,7 +19,7 @@ const Nosotros = () => {
             <div className="right-r">
                 <span>Algunos motivos</span>
                 <div className='letras'>
-                    <span className="stroke">Por qué </span>
+                    <span className="stroke">¿Por qué </span>
                     <span>elegirnos?</span>
                 </div>
                 <div className="detalles">

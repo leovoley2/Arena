@@ -10,7 +10,7 @@ export const testimonialsData = [
     review:
       "Si quieres llegar lejos en este deporte y ser un gran jugador, Arena Voleibol club, es el club indicado, dirigidos por grandes profesionales con todos los conocimientos en este hermoso deporte",
     name: 'FERNANDO RAMOS',
-    status : 'Cuerpo tecnico del seleccionado nacional de Chile'
+    status : 'Cuerpo técnico del seleccionado nacional de Chile'
   },
   {
     image: image2,
@@ -33,7 +33,7 @@ export const testimonialsData = [
   {
     image : image5,
     review:' El voleibol de playa es un deporte muy bonito te da muchas oportunidades, si quieres aprender un poco más en Arena Voleibol Club puedes lograr ser un buen jugador , ademas con un equipo de profesionales preparados para enseñarte a jugar al Beach Volley.',
-    name: 'JESUS VILLAFAÑE',
-    status: "JUGADOR OLIMPICO LONDON 2012"
+    name: 'JESÚS VILLAFAÑE',
+    status: "JUGADOR OLÍMPICO LONDON 2012"
   }
 ];

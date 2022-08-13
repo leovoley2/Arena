@@ -14,8 +14,8 @@ export const plansData = [
     price: "25",
     features: [
       "2 horas de trabajo ",
-      "pago unico por clase asistida",
-      "asesoría gratuita con entrenadores",
+      "Pago único por clase asistida ",
+      "Asesoría gratuita con entrenadores",
     ],
   },
   {

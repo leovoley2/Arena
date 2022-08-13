@@ -15,7 +15,7 @@ const Join = () => {
     <div className="left-j">
     <hr/>
         <div>
-            <span className='stroke'>Estas listo </span>
+            <span className='stroke'>¿Estas listo </span>
             <span>Para vivir </span>
         </div>
         <div>
