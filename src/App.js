@@ -22,9 +22,9 @@ function App() {
           <Hero/>
           <Programa/>
           <Nosotros/>
+          <Testimonio/>
           <Nosotros2/>
           <Planes/>
-          <Testimonio/>
           {/*<Slider/>*/}
           <Join/>
           <Entrenadores/>

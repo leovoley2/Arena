@@ -20,7 +20,7 @@ export const testimonialsData = [
   },
   {
     image : image3,
-    review:' Es de gran importancia el desarrollo de academias y clubes donde se pueda practicar el voleibol de playa para el crecimiento y la masificacion del mismo. Como entrenador y instructor me llena de alegria ver el trabajo que viene realizando  Arena voleibol club en Peru.',
+    review:' Es de gran importancia el desarrollo de academias y clubes donde se pueda practicar el voleibol de playa para el crecimiento y la masificacion del mismo. Como entrenador e instructor me llena de alegria ver el trabajo que viene realizando  Arena voleibol club en Peru.',
     name: 'MAURO HERNANDEZ',
     status: "Instructos FIVB, entrenador de Venezuela"
   },
