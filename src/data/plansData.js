@@ -53,7 +53,7 @@ export const plansData = [
     features: [
       "2 horas de trabajo ",
       "Consulta y asesoría  privada con entrenadores",
-      "plan físico ",
+      "Plan físico ",
       "Plan de fuerza",
       "Pago mensual"
     ],
